@@ -1,4 +1,5 @@
 # Shopping
-- Eggs
-- MIlk
-- 
+- [X] Eggs
+- [X] Milk
+- [X] Garlic
+- [ ] Onion
